@@ -8,6 +8,4 @@ title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning L
 
 Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 
-2025 (Arxiv). First author.
-
-Code repository: SynLogic.
+2025 (Arxiv). First author. A GitHub code repository is available.
