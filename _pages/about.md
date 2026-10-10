@@ -35,7 +35,7 @@ interests include:
 ## Publications
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
-  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. 2025 (Arxiv). First author. Code repository: SynLogic.
+  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. 2025 (Arxiv). First author. A GitHub code repository is available.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**
   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. 2025 (Arxiv). First author. Code repository: Vision4Chart.
@@ -57,4 +57,4 @@ interests include:
 - **Email:** jliugi@connect.ust.hk
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+- **X (Twitter):** @junteng88716710
